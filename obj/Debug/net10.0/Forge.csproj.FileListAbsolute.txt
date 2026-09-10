@@ -1,0 +1,14 @@
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\bin\Debug\net10.0\Forge.exe
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\bin\Debug\net10.0\Forge.deps.json
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\bin\Debug\net10.0\Forge.runtimeconfig.json
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\bin\Debug\net10.0\Forge.dll
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\bin\Debug\net10.0\Forge.pdb
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.AssemblyInfoInputs.cache
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.AssemblyInfo.cs
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.csproj.CoreCompileInputs.cache
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.dll
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\refint\Forge.dll
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.pdb
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\Forge.genruntimeconfig.cache
+C:\Users\nihal\workspace\project_workspace\csharp\Forge\obj\Debug\net10.0\ref\Forge.dll
