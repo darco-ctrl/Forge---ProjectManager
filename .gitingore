@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+
+# Publish output
+publish/
+*.pubxml
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Rider/VS temp files
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# User-specific local config (if you ever add one)
+appsettings.local.json
+*.local.json

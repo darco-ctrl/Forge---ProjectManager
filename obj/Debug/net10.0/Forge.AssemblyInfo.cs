@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c0c014af8d190d73354716d11577a2b70b1267")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
